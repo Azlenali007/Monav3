@@ -1,0 +1,6 @@
+{
+  "name": "Mona SMM Panel v2",
+  "description": "Enterprise SMM Reseller Panel in PHP & MySQL with Secure Payment Gateways (Razorpay, Cashfree, PhonePe, PayU, PayPal, Stripe, Verifone, Cryptomus, NOWPayments, CoinPayments, Binance Pay)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

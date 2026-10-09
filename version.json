@@ -1,0 +1,8 @@
+{
+  "name": "Mona SMM Panel",
+  "version": "2.2.0",
+  "build": 20261009,
+  "php_required": "8.2.0",
+  "database_version": "004",
+  "author": "Mona Panel Architecture"
+}
